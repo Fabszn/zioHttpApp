@@ -1,0 +1,17 @@
+.idea
+/js
+*target
+.DS_Store
+.bloop
+.metals
+floxxBack.code-workspace
+dd.sc
+front/node_modules
+front/dist
+.bsp/
+.vscode
+desktopApp/node_modules
+desktopApp/dist
+front/yarn-error.log
+metals.sbt
+*/**/local.conf
